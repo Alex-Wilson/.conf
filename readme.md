@@ -36,10 +36,20 @@ This is a collection of settings and configurations that I use in my most used a
 - Steam
 - Velocidrone
 - Lift Off
-- Life Off Micro
+- Lift Off Micro
+- R6 mouse settings
+- EFT Keybinds
+- Dolphin
+- PCSX2
 
 # Image Editors
 - Krita
 
 # Video Editors
 - Davinci Resolve
+
+# 3D Modeling/CAD/Micro
+- Blender
+- KiCad
+- Fusion 360
+  
