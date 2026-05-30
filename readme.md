@@ -52,4 +52,7 @@ This is a collection of settings and configurations that I use in my most used a
 - Blender
 - KiCad
 - Fusion 360
-  
+
+# Notes App
+- Notion
+- Obsidian 
