@@ -54,6 +54,7 @@
 - KiCad
 - Fusion 360
 
-# Notes App
+# Notes and Documents
+- Libre Office
 - Notion
 - Obsidian 
