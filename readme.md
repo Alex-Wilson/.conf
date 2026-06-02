@@ -53,6 +53,7 @@
 - Blender
 - KiCad
 - Fusion 360
+- Orca Slicer
 
 # Notes and Documents
 - Libre Office
