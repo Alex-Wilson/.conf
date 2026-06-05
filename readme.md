@@ -41,7 +41,9 @@
 - EFT Keybinds
 - Dolphin
 - PCSX2
-- -DeSuMe
+- DeSuMe
+- Xenia
+- PCSX 2
 
 # Image Editors
 - Krita
