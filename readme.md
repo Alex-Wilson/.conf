@@ -40,8 +40,9 @@ A collection of settings and configurations that I use in my most used applicati
 - R6 mouse settings
 - EFT Keybinds
 - Dolphin
-- PCSX2
 - DeSuMe
+- RPSC3
+- shadPS4
 - Xenia
 - PCSX 2
 
