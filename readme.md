@@ -2,24 +2,26 @@ A collection of settings and configurations that I use in my most used applicati
 
 # OS:
 - Arch
-- Cachy
 - Artix
+- Cachy
 - Void
 
 # Shell
 - fish
-- zsh
 - nushell
+- zsh
 
 # Terminal
+- alacritty
 - ghosty
 - kitty
-- alacritty
 - wezterm
 
 # Editors
 - Vscodium
 - Neovim
+  
+    Popular Pre-Configurations:
   - AstroNvim
   - Lazyvim
   - Kickstart
@@ -30,8 +32,10 @@ A collection of settings and configurations that I use in my most used applicati
  
 # Browser
 - Zen
+- LibreWolf
 
 # Games
+- OSU
 - Bolt
 - Steam
 - Velocidrone
@@ -39,12 +43,16 @@ A collection of settings and configurations that I use in my most used applicati
 - Lift Off Micro
 - R6 mouse settings
 - EFT Keybinds
-- Dolphin
-- DeSuMe
-- RPSC3
-- shadPS4
+
+### Emulators
+- DeSuMe (GameBoy/DS Emulator)
+- Dolphin (GameCube/Wii Emulator)
+
+- PCSX 2 (PS2 Emulator)
+- RPCS3 (PS3 Emulator)
+- shadPS4 (PS4 Emulator)
 - Xenia
-- PCSX 2
+- Ryujinx
 
 # Image Editors
 - Krita
