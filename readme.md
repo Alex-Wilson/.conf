@@ -56,8 +56,10 @@ A collection of settings and configurations that I use in my most used applicati
 - Xenia
 - Ryujinx
 
-# Image Editors
+# Image Editors and Design Tools
 - Krita
+- Figma
+- 
 
 # Video Editors
 - Davinci Resolve
