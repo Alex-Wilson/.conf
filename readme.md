@@ -43,6 +43,8 @@ A collection of settings and configurations that I use in my most used applicati
 - Lift Off Micro
 - R6 mouse settings
 - EFT Keybinds
+- Rocksmith
+- Slopsmith
 
 ### Emulators
 - DeSuMe (GameBoy/DS Emulator)
