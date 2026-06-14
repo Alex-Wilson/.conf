@@ -35,14 +35,17 @@ A collection of settings and configurations that I use in my most used applicati
 - LibreWolf
 
 # Games
-- OSU
+- Keybinds
+-   Arma 3
+-   Arma R
+-   R6
+-   EFT
+-   SPT
 - Bolt
 - Steam
 - Velocidrone
 - Lift Off
 - Lift Off Micro
-- R6 mouse settings
-- EFT Keybinds
 - Rocksmith
 - Slopsmith
 - Clone Hero
