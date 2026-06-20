@@ -47,7 +47,6 @@ list of software and settingd for the software i use and enjoy
 - Lift Off
 - Lift Off Micro
 - Rocksmith
-- Slopsmith
 - Clone Hero
 
 ### Emulators
