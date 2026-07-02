@@ -62,7 +62,6 @@ list of software and settingd for the software i use and enjoy
 # Image Editors and Design Tools
 - Krita
 - Figma
-- 
 
 # Video Editors
 - Davinci Resolve
